@@ -51,41 +51,10 @@ Building software, solving problems, and exploring how technology can make a dif
 
 ---
 
-## 🚀 Featured Projects
 
-### 📊 CredVest — Intelligent Financial Planning Platform
-A MERN-based financial planning application featuring portfolio management, transaction tracking, stock analysis, ML-based price forecasting and AI-powered financial assistance.
 
-**Tech:** React.js · Node.js · Express.js · MongoDB · Python
 
-### ⚙️ Deterministic Request Replay & State Time-Travel System
-A distributed debugging platform designed around request recording, event tracking, state snapshots and deterministic replay across microservices.
 
-**Tech:** Java 17 · Spring Boot · gRPC · Protocol Buffers · PostgreSQL
-
-[View Repository →](https://github.com/Bhumika954/Deterministic-Request-Replay-State-Time-Travel-System)
-
-### 🌸 CNN-Based Flower Classification
-A deep learning project that uses Convolutional Neural Networks to classify flower species from images.
-
-**Tech:** Python · TensorFlow · Keras
-
-### 📱 Kreeda-Prerana Scout
-An Android application designed to identify and nurture hidden sports talent among school students.
-
-**Tech:** Java · Android Development · APIs · Generative AI
-
----
-
-## 📈 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhumika954&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika954&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Bhumika954&theme=tokyonight&hide_border=true)
-
----
 
 ## 🤝 Let's Connect!
 
